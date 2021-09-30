@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "770356849291",
+    "firebase_url": "https://aratam-7cda5-default-rtdb.firebaseio.com",
+    "project_id": "aratam-7cda5",
+    "storage_bucket": "aratam-7cda5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770356849291:android:89bb7f3d0a7799f632028e",
+        "android_client_info": {
+          "package_name": "com.example.sixvalley_vendor_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770356849291-252ok7rfqb5nd4kdihjrvhq39p9ik5ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAnAkuQrNO3-yYsOFMueo0qAz-00mlEBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770356849291-252ok7rfqb5nd4kdihjrvhq39p9ik5ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770356849291:android:dadd5208ca4a4e3132028e",
+        "android_client_info": {
+          "package_name": "com.u6amtech.flutter_sixvalley_ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "770356849291-252ok7rfqb5nd4kdihjrvhq39p9ik5ae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAnAkuQrNO3-yYsOFMueo0qAz-00mlEBE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "770356849291-252ok7rfqb5nd4kdihjrvhq39p9ik5ae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

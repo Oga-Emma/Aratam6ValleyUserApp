@@ -1,0 +1,8 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.aratam.africanmarket">
+    <!-- Flutter needs it to communicate with the running application
+         to allow setting breakpoints, to provide hot reload, etc.
+         package="com.u6amtech.flutter_sixvalley_ecom"
+    -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+</manifest>

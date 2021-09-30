@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "580054852079",
+    "project_id": "aratammarket",
+    "storage_bucket": "aratammarket.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580054852079:android:f9caead85d479bd6ad561a",
+        "android_client_info": {
+          "package_name": "com.aratam.africanmarket"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "580054852079-dsd4o8s6mepkve7pd12r31snmghoenhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aratam.africanmarket",
+            "certificate_hash": "c4798bc3166042e91903d083e06efe5797e3c88f"
+          }
+        },
+        {
+          "client_id": "580054852079-j7rcbtqquv6d26hs1v1vlopkdnjk2pnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFqwUFxVDyKNPb4CKZw6VGs1PCYxBHDo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "580054852079-j7rcbtqquv6d26hs1v1vlopkdnjk2pnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
